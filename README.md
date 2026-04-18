@@ -22,12 +22,9 @@ Một ứng dụng đặt món Sushi hiện đại, giao diện tinh tế, đư�
 ## 📸 Ảnh chụp màn hình
 
 | Intro Page | Menu Page | Food Details | Cart Page |
-| :--- | :--- | :--- | :--- |
-| ![Intro](<img width="378" height="678" alt="image" src="https://github.com/user-attachments/assets/fcc8a832-a918-4578-b08d-bfb839a61689" />
-) | ![Menu](<img width="381" height="676" alt="image" src="https://github.com/user-attachments/assets/a6f590f7-6b61-4bbe-ae92-4e0f39fb5082" />
-) | ![Details](<img width="378" height="681" alt="image" src="https://github.com/user-attachments/assets/bc8637d1-42c1-4aaa-b013-2bf66562ec6f" />
-) | ![Cart](<img width="375" height="676" alt="image" src="https://github.com/user-attachments/assets/763c1917-cc42-47e6-b210-e06ed19fb526" />
-) |
+| :---: | :---: | :---: | :---: |
+| <img width="180" alt="Intro" src="https://github.com/user-attachments/assets/fcc8a832-a918-4578-b08d-bfb839a61689" /> | <img width="180" alt="Menu" src="https://github.com/user-attachments/assets/a6f590f7-6b61-4bbe-ae92-4e0f39fb5082" /> | <img width="180" alt="Details" src="https://github.com/user-attachments/assets/bc8637d1-42c1-4aaa-b013-2bf66562ec6f" /> | <img width="180" alt="Cart" src="https://github.com/user-attachments/assets/763c1917-cc42-47e6-b210-e06ed19fb526" /> |
+
 
 ## 🚀 Cài đặt và Chạy ứng dụng
 
